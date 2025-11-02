@@ -1,0 +1,28 @@
+Conversione Solid Edge a STL
+Data: mercoledì,giugno 04,2025 01:10
+File sorgente:C:\Users\francesco\Downloads\terminale barramaniglia antivento .par
+Sistema sorgente: SOLID EDGE
+
+Hardware:
+Processore: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx  
+Sistema operativo: Windows 10
+Memoria installata: 6,95 GB
+
+Informazioni sul software:
+Versione Parasolid: 36.0.142
+Versione PSBodyshop: 36.0.108
+Versione adattatore STL: 13.0.193
+Versione Solid Edge: 224.00.00.101 x64
+
+Opzioni di esportazione STL:
+Formato file di output:BINARY
+Esporta parti visualizzate:Off
+structureOption: Monolithic
+Unità di esportazione:Millimeter
+Esporta valore di tolleranza:0,050000
+Esporta tipo di tolleranza:Custom
+Esporta valore angolo piano superficie:0,523599
+
+Avanzamento conversione:
+Processo di conversione completato
+Tempo necessario per la conversione:00 : 00 : 00
