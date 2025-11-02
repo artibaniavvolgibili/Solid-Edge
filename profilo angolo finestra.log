@@ -1,0 +1,29 @@
+Conversione Solid Edge a STL
+Data: domenica,novembre 21,2021 03:19
+File sorgente:C:\Users\Angela\Dropbox\profilo angolo finestra.par
+Sistema sorgente: SOLID EDGE
+
+Hardware:
+Processore: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz
+Sistema operativo: Windows 10
+Memoria installata: 11,91 GB
+
+Informazioni sul software:
+Versione Parasolid: 31.1.255
+Versione PSBodyshop: 31.1.110
+Versione Solid Edge: 220.00.00.104 x64
+
+Opzioni di esportazione STL:
+Formato file di output:BINARY
+Esporta parti visualizzate:Off
+structureOption: Monolithic
+Unità di esportazione:Millimeter
+Esporta valore di tolleranza:0,001000
+Esporta tipo di tolleranza:Fine
+Esporta valore angolo piano superficie:0,523599
+
+Avanzamento conversione:
+Fase 1 di 2 Recupero informazioni Parasolid...
+Numero di file STL creati : 1
+Processo di conversione completato
+Tempo necessario per la conversione:00 : 00 : 00
